@@ -3,7 +3,7 @@
 **Author:** Bryan Ambrósio  
 **Affiliations:**  
 - Universidade Federal de Santa Catarina (UFSC)  
-- Laboratório de Planejamento de Sistemas Elétricos (LabPlan)  
+- Laboratório de Planejamento de Sistemas de Energia Elétrica (LabPlan)  
 - INESC Brasil – Instituto de Engenharia de Sistemas e Computadores
 
 ---
